@@ -1,4 +1,3 @@
 # index
 
-Hello world.
-
+Hello world
